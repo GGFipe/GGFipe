@@ -1,4 +1,4 @@
-## Hi there 👋
+## Felipe Gabriel Garcia
 
 <!--
 **GGFipe/GGFipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->L
+-->Desenvolvedor Back-End e Analista de Dados.
+
